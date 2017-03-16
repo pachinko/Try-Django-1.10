@@ -1,5 +1,6 @@
 Django==1.10
 django-crispy-forms==1.6.1
+django-hosts==2.0
 django-registration-redux==1.4
 olefile==0.44
 Pillow==4.0.0
